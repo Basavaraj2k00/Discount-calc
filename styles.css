@@ -1,5 +1,9 @@
 body{
-    background-color: #ff7171;
+    /* background-color: #ff7171; */
+  
+    background-image: url('images/lines.png');
+    background-size: 100%;
+    color: #ffffff;
 }
 
 form{
